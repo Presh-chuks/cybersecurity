@@ -1,1 +1,12 @@
 this is lesson1
+
+git clone = 
+git fetch = 
+git add =
+git commit = 
+git branch = 
+git pull =
+git push = 
+git merge = 
+git --version = 
+git init = 
