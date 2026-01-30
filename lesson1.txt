@@ -11,3 +11,19 @@ git merge =
 git --version = 
 git init = 
 git status = 
+
+Web Terminologies
+HTTPs
+IP
+ISP
+HOST
+SERVER
+CLIENT
+URL
+URI
+DNS
+Domain
+Domain extension
+sub-domain
+web mail
+html
