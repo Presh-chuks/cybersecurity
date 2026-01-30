@@ -10,3 +10,4 @@ git push =
 git merge = 
 git --version = 
 git init = 
+git status = 
