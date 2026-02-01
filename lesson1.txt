@@ -1,12 +1,27 @@
 this is lesson1
 
-git clone = it is used to create/download a specific existing git repository to your local computer.
-git fetch = downloads commits, files add refs from a remote repository into your local repository. 
-git add = git add command add content from a working directory into a staging area (or "index") for the next commit.
-git commit = a commit is like a save point in your project, it records a snapshot of your files at a certain time, with a message decribing what changed.
-git branch = a branch a seperate workspace where you can make changes try new ideas without affecting the main project.
-git pull = pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
-git push = push command is used to move changes from the local repository to the remote .
-git merge =  merge is used combine the changes from one branch into another. 
-git init = init command creates a new, empty git repository or reinitializes an existing one.
-git status = status command is used to display the state of the working directory and the staging area.
+git clone = It is used to create/download a specific existing git repository to your local computer.
+git fetch = Downloads commits, files add refs from a remote repository into your local repository. 
+git add = Git add command add content from a working directory into a staging area (or "index") for the next commit.
+git commit = A commit is like a save point in your project, it records a snapshot of your files at a certain time, with a message decribing what changed.
+git branch = A branch a seperate workspace where you can make changes try new ideas without affecting the main project.
+git pull = Pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+git push = Push command is used to move changes from the local repository to the remote .
+git merge =  Merge is used combine the changes from one branch into another. 
+git init = Init command creates a new, empty git repository or reinitializes an existing one.
+git status = Status command is used to display the state of the working directory and the staging area.
+
+Web Terminologies
+HTTPs = Hypertext transfer protocol secure is the secure version of HTTP, which is the primary protocol used data between a web browser and a website.
+IP = Internet protocol address is a numerical label that is assigned to a device connected to a computer network that uses the internet protocol for communication.
+ISP = Internet service provider is a company that provides individuals and organisations access to in ternet and other related servics.
+SERVER = A server is a computer or system that provides resources, data, services, or programs to other computers, known as clients over a net
+HOST = Is a computer or other device connected to a computer network.
+CLIENT = A client is a computer or software application that requests and receives services or information from another computer or server.
+URL = Uniform resource locator is the  web address used to find and access resources like web page, files, or image on the internet.
+URI = Iniform resource identifier is a unique sequence of characters that identifies an abstract or physical resource, such as resourceon the webpage, email address phone number e.t.c. 
+DNS = The domain name system is the "phonebook of the internet", translating human-readable domain names into machine-readable IP address. 
+Domain Extension = they are the suffix at the end of web address (like .com, .org, .net, e.t.c.) that indicate a website's purpose, location or type, helping users understand its intent at a glance.
+sub-domain = A sub domain act as an extensionof your primary domain, allowing you to organize your site into different sections or categories without purchasing additional domains.
+web mail = Web mail are web-based email accounts. these are usually free email accounts that are operated from the a website. example hotmail, gmail, yahoo mail.
+html = Hypertext markup language is the most basic building block of the web. it defines the meaning and structure of web content.
